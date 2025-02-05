@@ -7,3 +7,4 @@ class Recipe:
     def add_ingredinent():
         pass
         
+실패..
